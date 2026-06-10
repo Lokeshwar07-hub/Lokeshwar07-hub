@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Lokeshwar Sikarwar
-**A BTech Data Science Student | Full-Stack Developer **
+A BTech Data Science Student | Full-Stack Developer 
 
 Email Me 👉 ✉️ **sikarwarlokeshwar@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
