@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **sikarwarlokeshwar@gmail.com** For Collaboration/Project o
 - 🌱 I’m currently learning: Full-Stack Development, Java, and Data Structures & Algorithms
 - 👯 I’m looking to collaborate on: Web Development and Open-Source Projects
 - 🤔 I’m looking for help with: Backend Development and System Design
-- 💬 Ask me about: Python, Java, DSA, Web Development, and Programming
+- 💬 Ask me about: Java, DSA, Web Development, and Programming
 - 📫 How to reach me: sikarwarlokeshwar@gmail.com
 - 🎓 Education: BTech in Data Science
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
