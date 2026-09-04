@@ -4,7 +4,6 @@ A BTech Data Science Student | Full-Stack Developer
 Email Me 👉 ✉️ **sikarwarlokeshwar@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭  I’m currently working on: Full-Stack Web Development and DSA
-- 🌱 I’m currently learning: Full-Stack Development, Java, and Data Structures & Algorithms
 - 👯 I’m looking to collaborate on: Web Development and Open-Source Projects
 - 🤔 I’m looking for help with: Backend Development and System Design
 - 💬 Ask me about: Java, DSA, Web Development, and Programming
